@@ -1,8 +1,8 @@
-### Hi! I'm lfvldvn 👋
+### Hi! I'm lfvldvn 👋💻
 
 - 🔭 I’m currently working on front-end for email marketing
 - 🌱 I’m currently learning Phyton and Java Script
-- 📫 Talk to me for the email: lfvldvn@gmail.com 
+- 📧 Talk to me for the email: lfvldvn@gmail.com 
 - 😄 Pronouns: he/ his
 
 <!-- stats & langs -->
