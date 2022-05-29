@@ -29,6 +29,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/gimp/gimp-original.svg" width="40" height="30" align="center" alt="lfvldvn-gimp" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/trello/trello-plain.svg" width="40" height="30" align="center" alt="lfvldvn-trello" />
 	<img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ubuntu/ubuntu-plain.svg" width="40" height="30" align="center" alt="lfvldvn-ubuntu" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
 </div>
 
 ##
