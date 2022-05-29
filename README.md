@@ -9,7 +9,7 @@
 <div style="display: inline-block;">
 	<a href="https://github.com/lfvldvn" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api?username=lfvldvn&theme=midnight-purple&show_icons=true" height="130em" />
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lfvldvn&theme=buefy)" height="130em" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvldvn&layout=compact" height="130em" />
 	</a>
 </div>
 
