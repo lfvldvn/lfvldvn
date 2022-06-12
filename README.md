@@ -1,7 +1,7 @@
 ### Hi! I'm lfvldvn 👋💻
 
 - 🔭 I’m currently working on front-end for email marketing
-- 🌱 I’m currently learning Phyton, Java Script and Google features
+- 🌱 I’m currently learning Ethical Hacker, Java Script and Google features
 - 📧 Talk to me for the email: lfvldvn@gmail.com 
 - 😄 Pronouns: he/ his
 
