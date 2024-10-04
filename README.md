@@ -11,7 +11,9 @@
 		<img src="https://github-readme-stats.vercel.app/api?username=lfvldvn&theme=midnight-purple&show_icons=true" height="130em" />
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvldvn&theme=midnight-purple&hide_progress=false&layout=compact&" height="130em" /> <!---->
 	</a><br />
-	[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lfvldvn)](https://github.com/anuraghazra/github-readme-stats)
+	[![Harlok's WakaTime stats]
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lfvldvn" />
+<!--(https://github.com/anuraghazra/github-readme-stats)-->
 </div>
 
 ##
