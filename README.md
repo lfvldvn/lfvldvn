@@ -8,8 +8,8 @@
 <!-- stats & langs -->
 <div style="display: inline-block;">
 	<a href="https://github.com/lfvldvn" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=lfvldvn&theme=light&show_icons=true" height="130em" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvldvn&layout=compact&theme=light" height="130em" />
+		<img src="https://github-readme-stats.vercel.app/api?username=lfvldvn&theme=shadow_red&show_icons=true" height="130em" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvldvn&layout=compact&theme=shadow_red" height="130em" />
 	</a>
 </div>
 
