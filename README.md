@@ -12,7 +12,7 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfvldvn&theme=midnight-purple&hide_progress=false&layout=compact&" height="130em" /> <!---->
 	</a><br />
 	<!--[![Harlok's WakaTime stats]-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lfvldvn&theme=midnight-purple&" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lfvldvn&theme=light&" />
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 </div>
 
